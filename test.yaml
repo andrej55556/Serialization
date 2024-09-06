@@ -1,0 +1,18 @@
+- !Point3D
+  z: 7
+  x: 1
+  y: 8
+- !Point3D
+  z: 8
+  x: 0
+  y: 5
+- !Point3D
+  z: 2
+  x: 4
+  y: 3
+- !Point
+  x: 3
+  y: 4
+- !Point
+  x: 0
+  y: 4

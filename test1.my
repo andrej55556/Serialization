@@ -1,0 +1,15 @@
+~Point
+y: 2
+	x: 7
+~Point
+y: 6
+	x: 3
+~Point3D
+	z: 9
+x: 0	y: 2
+~Point
+y: 6
+	x: 7
+~Point3D
+	z: 6
+x: 0	y: 6
